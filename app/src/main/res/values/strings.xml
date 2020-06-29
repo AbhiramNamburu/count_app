@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">count app</string>
+    <string name="toast">Toast</string>
+    <string name="viewcount">viewcount</string>
+</resources>
